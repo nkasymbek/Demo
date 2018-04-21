@@ -9,7 +9,7 @@ public class hdgjfhgkjlk {
 
 		System.out.println("Ulan");
 
-//
+
 	//Ulik
 
 		System.out.println();
