@@ -3,7 +3,8 @@ public class hdgjfhgkjlk {
 	
 	
 	public static void main(String[] args) {
-		///mairambek
+		System.out.println("Zhibek");
+  	///mairambek
 	}
 
 }
