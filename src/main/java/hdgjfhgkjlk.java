@@ -11,7 +11,7 @@ public class hdgjfhgkjlk {
 
 	//Ulik
 
-		System.out.println();
+		System.out.println("Pass");
 	}
 
 }
