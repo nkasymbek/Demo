@@ -11,7 +11,7 @@ public class hdgjfhgkjlk {
 
 	//Ulik
 
-		System.out.println("Pass");
+		System.out.println("Passed or Failed");
 	}
 
 }
